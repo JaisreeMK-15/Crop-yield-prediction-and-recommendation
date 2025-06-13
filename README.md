@@ -1,0 +1,1 @@
+This project focuses on predicting crop yields based on various environmental and soil parameters using machine learning techniques. It aims to help farmers and agricultural stakeholders make informed decisions by providing accurate yield forecasts and crop recommendations tailored to specific conditions
